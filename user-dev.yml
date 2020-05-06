@@ -13,8 +13,8 @@ spring:
   redis:
     host: 192.168.19.121
   rabbitmq:
-    host: 192.168.19.121
-    username: /leyou
+    host: 127.0.0.1
+    username: leyou
     password: leyou
     virtual-host: /leyou
     template:
